@@ -35,7 +35,7 @@ Below is an example plot of training and validation accuracy over epochs generat
 Make sure you have Python 3.8+ installed.
 
 ```bash
-git clone https://github.com/YourUsername/EEG_Insomnia_Classifier.git
+git clone https://github.com/Rania334/EEG_Insomnia_Classifier.git
 cd EEG_Insomnia_Classifier
 pip install -r requirements.txt
 
